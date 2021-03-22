@@ -1,5 +1,5 @@
 ### Olá!
-![image](https://user-images.githubusercontent.com/53912624/112014724-ed789000-8b09-11eb-98ca-8b8839fbe4da.png)
+
 Meu nome é Nícolas, tenho 21 anos e travalho com programação!
 
 Cursando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga
@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    man_technologist Meu nome é Samuel, tenho 20 anos e amo programar.
+    books Cursando Análise e Desenvolvimento de Sistemas.
+    briefcase Acesse meu perfil profissional aqui.
 
