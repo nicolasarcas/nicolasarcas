@@ -1,4 +1,7 @@
-### Hi there 👋
+### olá!
+Meu nome é Nícolas, tenho 21 anos e travalho com programação!
+Cursando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga
+Acesse meu perfil profissional <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a/">aqui</a>
 
 <!--
 **nicolasarcas/nicolasarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
