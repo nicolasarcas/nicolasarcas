@@ -5,7 +5,8 @@
 • 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga
 
 • 👨‍💼  Atualmente trabalho no PagSeguro PagBank!
-        Acesse meu perfil profissional <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a/">aqui</a>
+
+• 🔗 Acesse meu perfil profissional <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a/">aqui</a>!
 
 <!--
 **nicolasarcas/nicolasarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
