@@ -10,6 +10,8 @@
 
 • 🥇 Conheça um dos meus projetos, o <a href="https://github.com/nicolasarcas/merka_app">Merka</a>!
 
+• ⚡ Confira também meus <a href="https://github.com/nicolasarcas/imersaodev">códigos da imersãoDev</a> realizado pela Alura
+
 <!--
 **nicolasarcas/nicolasarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
