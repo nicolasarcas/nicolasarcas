@@ -9,9 +9,9 @@
 • 🥇 Conheça um dos meus projetos, o <a href="https://github.com/nicolasarcas/merka_app">Merka</a>!
 
 <a href="https://github.com/nicolasarcas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarcas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarcas&layout=compact&langs_count=16&theme=tokyonight"/>
   <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarcas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarcas&layout=compact&langs_count=16&theme=tokyonight"/>
     <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=nicolasarcas&theme=tokyonight&hide_border=true">
   </p>
     
