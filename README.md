@@ -1,10 +1,10 @@
 ### Fala dev!
 
-• 👨‍🦱 Meu nome é Nícolas, tenho 21 anos e curto muito programação!
+• 👨‍🦱 Eu sou o Nícolas, tenho 21 anos e curto muito programação!
 
 • 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Ipiranga
 
-• 👨‍💼  Atualmente trabalho no PagSeguro PagBank!
+• 👨‍💼  Atualmente trabalho no <a href="https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl">PagSeguro PagBank</a>!
 
 • 🥇 Conheça um dos meus projetos, o <a href="https://github.com/nicolasarcas/merka_app">Merka</a>!
 
