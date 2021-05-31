@@ -1,22 +1,16 @@
 ### Hey dev!
 
  ```java
-
-private final String name = "Nícolas Arcas";
-
 class About extends Me {
 
-    public getCurrentLife(){
-        return [
-            'workplace' => [
-                'company' => 'PagSeguro PagBank',
-                'position' => 'Software Engineer Intern'         
-            ],
-            'studying' =>[
-                'college' => 'Fatec Ipiranga',
-                'degree' => 'System Analysis and Development'
-            ]];
-    }
+  private final String name = "Nícolas Arcas";
+  
+  public String getCurrentJob(){
+    return "Software Engineer Intern at PagSeguro PagBank";
+  }
+  public String getCurrentStudies(){
+    return "System Analysis and Development at Fatec Ipiranga";
+  }        
 }
 ```
 
