@@ -20,39 +20,31 @@
 ![Snake animation](https://github.com/nicolasarcas/nicolasarcas/blob/output/github-contribution-grid-snake.svg)
   
   ```java
-<?php
 
-namespace AshBaker;
+String Nícolas Arcas;
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
+class About extends Me {
+    public getCurrentLife(){
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'PagSeguro PagBank',
+                'position' => 'Software Engineer Intern'         
+            ],
+            'studying' =>[
+                'college' => 'Fatec Ipiranga',
+                'degree' => 'System Analysis and Development'
             ]
         ];
     }
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
+    public String getDailyKnowledge(){
+        return "Java"
+                +"\n C"
+                  +"\n python"
+                    +"\n k8s"
+                      +"\n kafka"
+                        +"\n SQL"
+                          +"\n kafka";
     }
 }
 ```
