@@ -1,5 +1,5 @@
 <div align="center">
-     <b><h1> Hey dev!</h1></b>
+     <b><h3> Hey dev!</h3></b>
 </div>
 
  ```java
