@@ -2,9 +2,10 @@
 
  ```java
 
-String Nícolas Arcas;
+private final String name = "Nícolas Arcas";
 
 class About extends Me {
+
     public getCurrentLife(){
         return [
             'workplace' => [
@@ -16,16 +17,6 @@ class About extends Me {
                 'degree' => 'System Analysis and Development'
             ]
         ];
-    }
-
-    public String getDailyKnowledge(){
-        return "Java"
-                +"\n C"
-                  +"\n python"
-                    +"\n k8s"
-                      +"\n kafka"
-                        +"\n SQL"
-                          +"\n kafka";
     }
 }
 ```
