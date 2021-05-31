@@ -1,16 +1,16 @@
-### Hey dev!
+<p align="center"> ### Hey dev!</p>
 
  ```java
 class About extends Me {
 
-  private final String name = "Nícolas Arcas";
+   private final String name = "Nícolas Arcas";
   
-  public String getCurrentJob(){
-    return "Software Engineer Intern at PagSeguro PagBank";
-  }
-  public String getCurrentStudies(){
-    return "System Analysis and Development at Fatec Ipiranga";
-  }        
+   public String getCurrentJob(){
+     return "Software Engineer Intern at PagSeguro PagBank";
+   }
+   public String getCurrentStudies(){
+     return "System Analysis and Development at Fatec Ipiranga";
+   }        
 }
 ```
 
