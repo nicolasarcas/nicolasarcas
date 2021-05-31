@@ -1,4 +1,6 @@
-<p align="center"><b><h1> Hey dev!</h1></b></p>
+<p align="center">
+     <b><h1> Hey dev!</h1></b>
+</p>
 
  ```java
 class About extends Me {
