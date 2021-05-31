@@ -18,3 +18,41 @@
 <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/nicolasarcas/nicolasarcas/blob/output/github-contribution-grid-snake.svg)
+  
+  ```java
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
