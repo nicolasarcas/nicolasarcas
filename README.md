@@ -15,7 +15,8 @@ class About extends Me {
             'studying' =>[
                 'college' => 'Fatec Ipiranga',
                 'degree' => 'System Analysis and Development'
-            ]];}
+            ]];
+    }
 }
 ```
 
