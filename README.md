@@ -10,7 +10,9 @@
 
 • 🥇 Conheça um dos meus projetos, o <a href="https://github.com/nicolasarcas/merka_app">Merka</a>!
 
-• ⚡ Confira também meus <a href="https://codepen.io/nicolasarcas/full/BapZgRJ">códigos da imersãoDev</a> realizado pela Alura
+<a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarcas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarcas&layout=compact&langs_count=16&theme=dracula"/>
 
 <!--
 **nicolasarcas/nicolasarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
