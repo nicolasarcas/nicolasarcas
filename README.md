@@ -20,7 +20,6 @@ class About extends Me {
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarcas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarcas&layout=compact&langs_count=16&theme=tokyonight"/>
-    <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=nicolasarcas&theme=tokyonight&hide_border=true">
   </p>
  <p align="center">
    <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
