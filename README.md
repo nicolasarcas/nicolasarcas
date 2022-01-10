@@ -8,7 +8,7 @@ class About extends Me {
    private final String name = "Nícolas Arcas";
   
    public String getCurrentJob(){
-     return "Software Engineer Intern at PagSeguro PagBank";
+     return "Junior Software Engineer at PagSeguro PagBank";
    }
    public String getCurrentStudies(){
      return "System Analysis and Development at Fatec Ipiranga";
