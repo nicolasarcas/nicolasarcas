@@ -10,8 +10,9 @@ class About extends Me {
    public String getCurrentJob(){
      return "Junior Software Engineer at PagSeguro PagBank";
    }
-   public String getCurrentStudies(){
-     return "System Analysis and Development at Fatec Ipiranga";
+   public String getCurrentAndFinishedStudies(){
+     return "Alura - In progress \n" +
+            "System Analysis and Development at Fatec Ipiranga - Finished";
    }        
 }
 ```
