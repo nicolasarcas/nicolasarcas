@@ -5,7 +5,7 @@
  ```java
 class About extends Me {
 
-   private final String name = "Nícolas Arcas";
+   protected final String name = "Nícolas Arcas";
   
    public String getCurrentJob(){
      return "Junior Software Engineer at PagSeguro PagBank";
