@@ -12,7 +12,7 @@ class About extends Me {
    }
    public String getCurrentAndFinishedStudies(){
      return "Alura - In progress \n" +
-            "System Analysis and Development at Fatec Ipiranga - Finished";
+            "System Analysis and Development at Fatec Ipiranga - Completed";
    }        
 }
 ```
