@@ -11,7 +11,7 @@ class About extends Myself {
      return "Junior Software Engineer at PagSeguro PagBank";
    }
    public String getCurrentAndFinishedStudies(){
-     return "Alura - In progress \n" +
+     return "Alura - In progress \n"+
             "System Analysis and Development at Fatec Ipiranga - Completed";
    }        
 }
