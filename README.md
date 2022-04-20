@@ -3,7 +3,7 @@
 </div>
 
  ```java
-class About extends Myself {
+class About extends Myself{
 
    protected final String name = "Nícolas Arcas";
   
