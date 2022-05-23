@@ -1,22 +1,6 @@
 <div align="center">
      <b><h3> Hey dev!</h3></b>
 </div>
-
- ```java
-class About extends Myself{
-
-   protected final String name = "Nícolas Arcas";
-  
-   public String getCurrentJob(){
-     return "Junior Software Engineer at PagSeguro PagBank";
-   }
-   public String getCurrentAndFinishedStudies(){
-     return "Alura - In progress \n"+
-            "System Analysis and Development at Fatec Ipiranga - Completed";
-   }        
-}
-```
-
 <a href="https://github.com/nicolasarcas">
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasarcas&layout=compact&langs_count=16&theme=tokyonight"/>
