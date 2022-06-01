@@ -1,5 +1,5 @@
 <div align="center">
-     <b><h3> Hey dev!</h3></b>
+     <b><h3> Heey dev!</h3></b>
 </div>
 <a href="https://github.com/nicolasarcas">
   <p align="center">
