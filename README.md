@@ -9,5 +9,4 @@
    <a href="https://www.linkedin.com/in/nicolas-arcas-01063712a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </p>
  </a>
-
 ![Snake animation](https://github.com/nicolasarcas/nicolasarcas/blob/output/github-contribution-grid-snake.svg)
